@@ -1,2 +1,2 @@
-### Olá! Eu sou a Jéssica Tavares 👋
+### Olá! Eu sou a Jéssica 👋
 
