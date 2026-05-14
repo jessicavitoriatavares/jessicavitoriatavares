@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=OI&pause=1000&color=C16A75&center=true&vCenter=true&random=false&width=435&lines=👋+Olá%2C+prazer+em+te+conhecer!;Eu+sou+a+Jéssica+Vitória;Full+Stack+Developer;Building+AI+%26+IoT+Solutions" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Olá+Dev!+😁;Eu+sou+a+Jéssica+Vitória;Full+Stack+Developer;Building+AI+%26+IoT+Solutions&center=true&size=30&pause=1000&color=C16A75&width=1000&duration=4000" alt="Typing Effect" />
   <br />
   <span>👩‍💻</span>
 </div>
@@ -20,16 +18,46 @@
 
 • 📬 Sinta-se à vontade para entrar em contato para conversarmos sobre IA, IoT ou desenvolvimento web!
 
-## 📊 My GitHub Stats
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicavitoriatavares&show_icons=true&theme=rose_pine&hide_border=true&title_color=C16A75&icon_color=C16A75&text_color=e0def4&bg_color=191724" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicavitoriatavares&layout=compact&langs_count=7&theme=rose_pine&hide_border=true&title_color=C16A75&text_color=e0def4&bg_color=191724" alt="Top Languages" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,py,nodejs,react,angular,aws,azure,docker,mysql,sqlite,postman,github,git,vscode,figma" />
+  </a>
+</div>
+
+## 📊 Estatísticas e Atividade
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicavitoriatavares&show_icons=true&theme=dark&title_color=C16A75&icon_color=C16A75&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicavitoriatavares&layout=compact&langs_count=7&theme=dark&title_color=C16A75&hide_border=true" alt="Linguagens mais usadas" />
+</div>
+
+<br />
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jessicavitoriatavares&theme=dark&utcOffset=-3" alt="Horário Produtivo" />
+      </td>
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jessicavitoriatavares&theme=dark" alt="Detalhes do Perfil" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jessicavitoriatavares&theme=rose_pine&hide_border=true&stroke=C16A75&ring=C16A75&fire=C16A75&currStreakNum=C16A75" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jessicavitoriatavares&theme=dark&stroke=C16A75&fire=C16A75&ring=C16A75&currStreakNum=C16A75&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <h3>Visitas ao Perfil</h3>
+  <img src="https://komarev.com/ghpvc/?username=jessicavitoriatavares&color=C16A75&style=flat-square&label=VISITAS" alt="Contador de Visitas" />
 </div>
 
 ##
