@@ -20,6 +20,18 @@
 
 • 📬 Sinta-se à vontade para entrar em contato para conversarmos sobre IA, IoT ou desenvolvimento web!
 
+## 📊 My GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicavitoriatavares&show_icons=true&theme=rose_pine&hide_border=true&title_color=C16A75&icon_color=C16A75&text_color=e0def4&bg_color=191724" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicavitoriatavares&layout=compact&langs_count=7&theme=rose_pine&hide_border=true&title_color=C16A75&text_color=e0def4&bg_color=191724" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jessicavitoriatavares&theme=rose_pine&hide_border=true&stroke=C16A75&ring=C16A75&fire=C16A75&currStreakNum=C16A75" alt="GitHub Streak" />
+</div>
+
 ##
 
 ```yaml
